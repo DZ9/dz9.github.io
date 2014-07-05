@@ -17,3 +17,6 @@ Hello World.
 另外博客内容我是采用了markdown来编写，关于markdown的语法可以查看[这里][]。markdown的语法熟悉之后还是十分方便好用的。
 
 在此也是庆祝一下博客搭建成功，愿在此于诸君共勉。
+
+[BeiYuu]: http://justcoding.iteye.com/blog/1959737
+[这里]: http://wowubuntu.com/markdown/#p
